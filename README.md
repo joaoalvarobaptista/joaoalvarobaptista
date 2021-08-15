@@ -1,4 +1,4 @@
-### Olá, mundo ! 👋
+### Hello World ! 👋
 
 - 🔭 SmartContract on Solidity
 - 🌱 JavaScript

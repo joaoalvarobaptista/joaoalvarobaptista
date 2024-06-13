@@ -1,7 +1,7 @@
 ### Hello World ! 👋
 
-- 🔭 SmartContract on Solidity
-- 🌱 JavaScript
+- 🌱 HTML/CSS/JavaScript
+- 🔭 Web3 - SmartContract on Solidity
 - 💬 Contato no e-mail: joaoalvaro@hotmail.com
 - 😄 Ele/dele
 

@@ -3,7 +3,7 @@
 - 🌱 HTML/CSS/JavaScript
 - 🔭 Web3 - SmartContract on Solidity
 -    Python
-- 💬 Contato no e-mail: joaoalvaro@hotmail.com
+- 💬 Contato no e-mail: joaoalvaro@hotmail.com / joaoalvaro.mat@gmail.com
 - 😄 Ele/dele
 
 <div>
